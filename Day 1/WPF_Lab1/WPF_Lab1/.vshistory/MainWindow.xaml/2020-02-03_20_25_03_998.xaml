@@ -1,0 +1,49 @@
+﻿<Window x:Class="WPF_Lab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lab1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <ScrollViewer>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">FirstName</Label>
+                <TextBox Width="300" Name="fname"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">LastName</Label>
+                <TextBox Width="300" Name="lname"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Gender</Label>
+                <TextBox Width="300" Name="gender"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Adress</Label>
+                <TextBox Width="300" Name="address"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Phone</Label>
+                <TextBox Width="300" Name="phone"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Mobile</Label>
+                <TextBox Width="300"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Email</Label>
+                <TextBox Width="300"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Label Width="70">Job Title</Label>
+                <TextBox Width="300"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="4">
+                <Button Click="save">Ok</Button>
+                <Button HorizontalAlignment="Center">Cancel</Button>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 1 Simple Text Editor", "Assignment 1 Simple Text Editor\Assignment 1 Simple Text Editor.csproj", "{D7954117-B149-4358-A661-AE896E997ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 2 Simple Animation", "Assignment 2 Simple Animation\Assignment 2 Simple Animation.csproj", "{8FB3C4F9-232E-46BF-B5EA-524687E22764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7954117-B149-4358-A661-AE896E997ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7954117-B149-4358-A661-AE896E997ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7954117-B149-4358-A661-AE896E997ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7954117-B149-4358-A661-AE896E997ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB3C4F9-232E-46BF-B5EA-524687E22764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB3C4F9-232E-46BF-B5EA-524687E22764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB3C4F9-232E-46BF-B5EA-524687E22764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB3C4F9-232E-46BF-B5EA-524687E22764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01564D74-9302-43A7-88E6-AB555C751D8A}
+	EndGlobalSection
+EndGlobal

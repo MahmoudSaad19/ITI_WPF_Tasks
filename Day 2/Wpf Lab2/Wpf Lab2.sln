@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf Lab2 ass2", "Wpf Lab2\Wpf Lab2 ass2.csproj", "{DA93D88C-B680-4E8C-BC3D-ACE192EC1CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf Lab2 ass1", "Wpf Lab2 ass1\Wpf Lab2 ass1.csproj", "{5D62E95E-9A24-496E-83D3-151A323ED417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA93D88C-B680-4E8C-BC3D-ACE192EC1CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA93D88C-B680-4E8C-BC3D-ACE192EC1CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA93D88C-B680-4E8C-BC3D-ACE192EC1CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA93D88C-B680-4E8C-BC3D-ACE192EC1CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D62E95E-9A24-496E-83D3-151A323ED417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D62E95E-9A24-496E-83D3-151A323ED417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D62E95E-9A24-496E-83D3-151A323ED417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D62E95E-9A24-496E-83D3-151A323ED417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F662FDB-3698-4792-8971-733EF993E679}
+	EndGlobalSection
+EndGlobal

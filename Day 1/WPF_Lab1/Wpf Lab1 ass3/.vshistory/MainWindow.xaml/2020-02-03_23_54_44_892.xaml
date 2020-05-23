@@ -1,0 +1,68 @@
+﻿<Window x:Class="Wpf_Lab1_ass3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Lab1_ass3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Border BorderBrush="Red" BorderThickness="2">
+            <Border BorderBrush="SkyBlue" BorderThickness="2">
+                <InkCanvas>
+                    
+                </InkCanvas>
+            </Border>
+        </Border>
+        <StackPanel Orientation="Horizontal">
+            <GroupBox>
+                <StackPanel>
+
+                    <RadioButton>Red</RadioButton>
+                    <RadioButton>Gree</RadioButton>
+                    <RadioButton>Bl</RadioButton>
+                    <RadioButton>Red</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox>
+                <StackPanel>
+
+                    <RadioButton>Red</RadioButton>
+                    <RadioButton>Gree</RadioButton>
+                    <RadioButton>Bl</RadioButton>
+                    <RadioButton>Red</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox>
+                <StackPanel>
+
+                    <RadioButton>Red</RadioButton>
+                    <RadioButton>Gree</RadioButton>
+                    <RadioButton>Bl</RadioButton>
+                    <RadioButton>Red</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox>
+                <StackPanel>
+
+                    <RadioButton>Red</RadioButton>
+                    <RadioButton>Gree</RadioButton>
+                    <RadioButton>Bl</RadioButton>
+                    <RadioButton>Red</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <StackPanel> 
+                <Button>ew</Button>
+                <Button>cop</Button>
+            </StackPanel>
+            <StackPanel>
+                <Button>save</Button>
+                <Button>ct</Button>
+            </StackPanel>
+            <StackPanel>
+                <Button>load</Button>
+                <Button>paste</Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

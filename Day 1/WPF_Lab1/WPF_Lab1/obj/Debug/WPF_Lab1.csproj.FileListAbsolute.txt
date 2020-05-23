@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\bin\Debug\WPF_Lab1.exe.config
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\bin\Debug\WPF_Lab1.exe
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\bin\Debug\WPF_Lab1.pdb
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\App.g.cs
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1_MarkupCompile.cache
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1_MarkupCompile.lref
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.g.resources
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.exe
+C:\Users\Mahmoud\source\repos\WPF_Lab1\WPF_Lab1\obj\Debug\WPF_Lab1.pdb

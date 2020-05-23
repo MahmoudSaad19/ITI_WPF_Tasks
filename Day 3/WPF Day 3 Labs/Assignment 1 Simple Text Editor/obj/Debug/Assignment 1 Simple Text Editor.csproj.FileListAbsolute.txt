@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\bin\Debug\Assignment 1 Simple Text Editor.exe.config
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\bin\Debug\Assignment 1 Simple Text Editor.exe
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\bin\Debug\Assignment 1 Simple Text Editor.pdb
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\App.g.cs
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor_MarkupCompile.cache
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor_MarkupCompile.lref
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor.g.resources
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment_1_Simple_Text_Editor.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor.exe
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 1 Simple Text Editor\obj\Debug\Assignment 1 Simple Text Editor.pdb

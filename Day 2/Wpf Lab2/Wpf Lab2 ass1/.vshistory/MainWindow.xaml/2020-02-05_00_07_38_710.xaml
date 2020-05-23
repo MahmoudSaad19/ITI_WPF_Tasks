@@ -1,0 +1,44 @@
+﻿<Window x:Class="Wpf_Lab2_ass1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Lab2_ass1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="270" FontSize="25">
+    <StackPanel Margin="5">
+        <TextBlock Height="30" Name="operate" Foreground="Gray"></TextBlock>
+        <TextBox Name="Calcview" PreviewTextInput="NumberValidationTextBox" Height="60"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+            <Button Width="50" Height="40" Margin="5" Click="bt_perc" Background="Blue" Foreground="White">%</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_CE" Background="Red" Foreground="White">CE</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_C" Background="Crimson" Foreground="White">C</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_div" Background="Blue" Foreground="White">/</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Width="50" Height="40" Margin="5" Click="bt_sev">7</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_eig">8</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_nine">9</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_mul" Background="Blue" Foreground="White">x</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Width="50" Height="40" Margin="5" Click="bt_for">4</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_five">5</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_six">6</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_sb" Background="Blue" Foreground="White">-</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Width="50" Height="40" Margin="5" Click="bt_o">1</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_two">2</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_tree">3</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_add" Background="Blue" Foreground="White">+</Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Width="50" Height="40" Margin="5">+/-</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_zero">0</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_dot">.</Button>
+            <Button Width="50" Height="40" Margin="5" Click="bt_res" Background="Green" Foreground="White">=</Button>
+        </StackPanel>
+        
+    </StackPanel>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Wpf_Lab1_ass2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Lab1_ass2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <DockPanel>
+        <Image Source="logo.png">
+            <Image.ToolTip>
+                <StackPanel>
+                    <Label>Hello .Net People</Label>
+                    <Image Source="iti_logo.jpg" ></Image>
+                    <Label>Created by Mahmoud (^_^)</Label>
+                </StackPanel>       
+            </Image.ToolTip>
+        </Image>
+
+    </DockPanel>
+</Window>

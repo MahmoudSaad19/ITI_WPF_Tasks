@@ -1,0 +1,65 @@
+﻿<Window x:Class="Wpf_Lab1_ass3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Lab1_ass3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Border BorderBrush="Red" BorderThickness="4">
+            <Border BorderBrush="SkyBlue" BorderThickness="5">
+                <InkCanvas>
+                    
+                </InkCanvas>
+            </Border>
+        </Border>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <GroupBox Header="Colors" Margin="5">
+                <StackPanel Margin="5">
+
+                    <RadioButton>Red</RadioButton>
+                    <RadioButton>Green</RadioButton>
+                    <RadioButton>Blue</RadioButton>
+                    <RadioButton>Magenta</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Modes" Margin="5">
+                <StackPanel Margin="5">
+
+                    <RadioButton>Ink</RadioButton>
+                    <RadioButton>Select</RadioButton>
+                    <RadioButton>Erase</RadioButton>
+                    <RadioButton>Erase by stroke</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Drawing Shape" Margin="5">
+                <StackPanel Margin="5">
+
+                    <RadioButton>Elipse</RadioButton>
+                    <RadioButton>Rectangle</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Brush Size" Margin="5">
+                <StackPanel Margin="5">
+
+                    <RadioButton>Small</RadioButton>
+                    <RadioButton>Normal</RadioButton>
+                    <RadioButton>Large</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <StackPanel Margin="5">
+                <Button Margin="5">New</Button>
+                <Button Margin="5">copy</Button>
+            </StackPanel>
+            <StackPanel Margin="5">
+                <Button Margin="5">save</Button>
+                <Button Margin="5">ct</Button>
+            </StackPanel>
+            <StackPanel Margin="5">
+                <Button Margin="5">load</Button>
+                <Button Margin="5">paste</Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>

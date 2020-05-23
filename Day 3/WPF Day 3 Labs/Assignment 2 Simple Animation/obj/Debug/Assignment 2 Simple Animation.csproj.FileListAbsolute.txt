@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\bin\Debug\Assignment 2 Simple Animation.exe.config
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\bin\Debug\Assignment 2 Simple Animation.exe
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\bin\Debug\Assignment 2 Simple Animation.pdb
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\App.g.cs
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation_MarkupCompile.cache
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation_MarkupCompile.lref
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation.g.resources
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment_2_Simple_Animation.Properties.Resources.resources
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation.csproj.GenerateResource.cache
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation.exe
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation.pdb
+C:\Users\Mahmoud\source\repos\WPF Day 3 Labs\Assignment 2 Simple Animation\obj\Debug\Assignment 2 Simple Animation.csprojAssemblyReference.cache
